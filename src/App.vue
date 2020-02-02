@@ -17,22 +17,22 @@
       <b-carousel-slide
         caption="First slide"
         text="Nulla vitae elit libero, a pharetra augue mollis interdum."
-        img-src="https://image.tmdb.org/t/p/original/wDWtimW82b1Fo2DwkxAt3aCi8KT.jpg"
+        img-src="https://image.tmdb.org/t/p/original/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg"
       ></b-carousel-slide>
 
       <b-carousel-slide
         caption="Harry poter"
         text="Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard"
-        img-src="https://image.tmdb.org/t/p/original/hziiv14OpD73u9gAak4XDDfBKa2.jpg"
+        img-src="https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
       ></b-carousel-slide>
 
       <!-- Slides with custom text -->
-      <b-carousel-slide img-src="https://image.tmdb.org/t/p/original/agCihVGrXk3hmmwMIgsn2ao1eEa.jpg">
+      <b-carousel-slide img-src="https://image.tmdb.org/t/p/original/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg">
         <h1>Hello world!</h1>
       </b-carousel-slide>
 
       <!-- Slides with image only -->
-      <b-carousel-slide img-src="https://image.tmdb.org/t/p/original/zdPHv4OkhjUNTCO0KkhoowfJmH0.jpg"></b-carousel-slide>
+      <b-carousel-slide img-src="https://image.tmdb.org/t/p/original/pU3bnutJU91u3b4IeRPQTOP8jhV.jpg"></b-carousel-slide>
 
       <!-- Slides with img slot -->
       <!-- Note the classes .d-block and .img-fluid to prevent browser default image alignment -->
@@ -42,7 +42,7 @@
             class="d-block img-fluid w-100"
             width="1024"
             height="480"
-            src="https://image.tmdb.org/t/p/original/bHMHpXNjeKRxcjWcpbIAD5f0aIK.jpg"
+            src="https://image.tmdb.org/t/p/original/xnopI5Xtky18MPhK40cZAGAOVeV.jpg"
             alt="image slot"
           >
         </template>
