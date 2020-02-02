@@ -3,7 +3,7 @@
     <b-carousel
       id="carousel-1"
       v-model="slide"
-      :interval="4000"
+      :interval="2000"
       controls
       indicators
       background="#ababab"
@@ -18,6 +18,12 @@
         caption="First slide"
         text="Nulla vitae elit libero, a pharetra augue mollis interdum."
         img-src="https://image.tmdb.org/t/p/original/wDWtimW82b1Fo2DwkxAt3aCi8KT.jpg"
+      ></b-carousel-slide>
+
+      <b-carousel-slide
+        caption="Harry poter"
+        text="Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard"
+        img-src="https://image.tmdb.org/t/p/original/hziiv14OpD73u9gAak4XDDfBKa2.jpg"
       ></b-carousel-slide>
 
       <!-- Slides with custom text -->
@@ -51,10 +57,10 @@
       </b-carousel-slide> -->
     </b-carousel>
 
-    <p class="mt-4">
+    <!-- <p class="mt-4">
       Slide #: {{ slide }}<br>
       Sliding: {{ sliding }}
-    </p>
+    </p> -->
   </div>
 </template>
 
